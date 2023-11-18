@@ -1,0 +1,22 @@
+div class="row">
+                <div class="col-lg-6 col-sm-12">
+                    <div class="content  ">
+                      <div class="main-content">
+                        <h1 class="header">Affordable home <br> repair services</h1>
+                        <p class="sub-content">Sed aliquam dictumst quisque eget non nisl in rhoncus. In a ipsum ut aliquam ac felis consequat. In sit diam porta laoreet. Amet id magna diam diam in egestas. Nulla sagittis pharetra id tristique.</p>
+                        
+                        
+                      </div>
+                      <div class="bots">
+                        <button class=" btn btn-warning btn-lg quote" type="submit">Get a Quote <i class="fa-solid fa-arrow-right"></i> </button>
+                        <button class=" btn btn-light btn-outline-dark btn-lg quote" type="submit">More About Us<i class="fa-solid fa-arrow-right ms-2"></i> </button>
+                      </div>
+                      
+                    </div>
+                </div>
+                <div class="col-lg-6 col-sm-12">
+                    <!-- <div class="images">
+                        <img class="carpenter" src="images/64a463adc1490ba864ae8c42_construction-worker-home-image-handyman-x-webflow-template-p-800.png" alt="">
+                    </div> -->
+                </div>
+            </div>

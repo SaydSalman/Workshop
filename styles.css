@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-expand-lg{
+    box-shadow: 0px 5px 10px #efefef;
+}
+.big-text{
+    font-size: 52px;
+    margin-top: 100px ;
+    color: darkorange;
+}
+.btn{
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 150px;
+    height: 50px;
+    padding-top: 3px;
+    border-radius: 20px;
+}
+.btn:hover{
+    box-shadow: 5px 5px 10px   #999;
+}
+.banner-info,.banner-image{
+    margin-top: 30px;
+}
+.card:hover{
+    transform: scale(1.04);
+}
+.card{
+    transition: all .6s ease-in-out;
+}
+.card:hover .card-body{
+    color: orange;
+}
+img:hover{
+    transform: scale(1.04);
+}
+img:hover{
+    transition: all .6s ease-in-out;
+}
+html{
+    scroll-behavior: smooth;
+}
